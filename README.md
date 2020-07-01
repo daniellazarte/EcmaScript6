@@ -1,5 +1,4 @@
 # EcmaScript 6+
-![alt text]
 
 Examples and functions in EcmaScript 6+ (Ecmascript 10)
 
